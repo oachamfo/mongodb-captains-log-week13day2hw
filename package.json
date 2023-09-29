@@ -4,6 +4,7 @@
     "express": "^4.18.2",
     "jsx-view-engine": "^1.0.0",
     "method-override": "^3.0.0",
-    "mongoose": "^7.5.3"
+    "mongoose": "^7.5.3",
+    "router": "^1.3.8"
   }
 }
